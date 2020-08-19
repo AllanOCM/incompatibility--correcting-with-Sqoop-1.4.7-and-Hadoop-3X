@@ -6,7 +6,7 @@
 $ Exception in thread "main" java.lang.NoClassDefFoundError: org/apache/commons/lang/StringUtils
 ```
 
-Copy file .jar for lib directory of Sqoop
+Copy file .jar for /lib directory of Sqoop
 
 ```sh
 $ unzip commons-lang-2.6-bin.zip
