@@ -1,0 +1,1 @@
+# incompatibility--correcting-with-Sqoop-1.4.7-and-Hadoop-3X
